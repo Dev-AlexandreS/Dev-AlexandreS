@@ -1,4 +1,4 @@
-<h2 align="left">Olaa, sou o Alexandre Santana, desenvolvedor Fullstack!!</h2>
+<h2 align="left">Ola, sou o Alexandre Santana, desenvolvedor Fullstack!!</h2>
 
 ###
 
